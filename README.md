@@ -102,7 +102,7 @@
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
                                     <span class="badge bg-primary">2019 - 2022</span>
-                                    <h5 class="mt-2 mb-0">Smak Muhammadiyah 1 Genteng</h5>
+                                    <h5 class="mt-2 mb-0">Smk Muhammadiyah 1 Genteng</h5>
                                     <p class="text-body-tertiary mb-0">Multimedia</p>
                                     <div class="mt-2">
                                         <p class="mb-1">Mata Pelajaran yang saya ikuti : </p>
