@@ -1,19 +1,4 @@
-<!doctype html>
 <html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>CV - lingkar chaya</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet"
-        integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-    <!-- Google Font (Kustomisasi Font) -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200..1000&display=swap" rel="stylesheet">
-
-</head>
 
 <body class="bg-light" style="font-family: Nunito, sans-serif;">
     <nav class="navbar navbar-expand-lg bg-body-tertiary fixed-top shadow-sm bg-white">
@@ -41,6 +26,7 @@
                         <a class="nav-link" href="#kontak">Hubungi Saya</a>
                     </li>
                 </ul>
+
                 <div class="d-flex">
                     <a class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modalKontak">
                         <b>Hubungi Saya</b>
@@ -49,8 +35,9 @@
             </div>
         </div>
     </nav>
-    
-<div class="pt-4"></div>
+
+    <div class="pt-4"></div>
+
     <section class="mt-5 pt-5">
         <div class="container">
             <div class="row">
@@ -72,21 +59,21 @@
         </div>
     </section>
 
-<section id="pendidikan" class="pt-5">
+    <section id="pendidikan" class="pt-5">
         <div class="container pt-5">
             <div class="row">
                 <div class="col-md-6">
                     <div class="row">
                         <h3 class="mb-3">Riwayat Pendidikan</h3>
                         
-<div class="col-md-12 mb-3">
+                        <div class="col-md-12 mb-3">
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
                                     <span class="badge bg-primary">2023 - Sekarang</span>
                                     <h5 class="mt-2 mb-0">Politeknik Negeri Banyuwangi</h5>
                                     <p class="text-body-tertiary mb-0">Teknik Informatika</p>
 
- <div class="mt-2">
+                                    <div class="mt-2">
                                         <p class="mb-1">Mata Kuliah yang saya ikuti : </p>
                                         <span class="badge text-bg-light">Basis Data</span>
                                         <span class="badge text-bg-light">Pemrograman Web Dasar</span>
@@ -114,13 +101,13 @@
                         </div>
                     </div>
 
-</div>
+                </div>
                 <div class="col-md-6 mt-5 mt-md-0">
                     <div class="row">
                         <h3 class="mb-3">Pengalaman Magang</h3>
                         <!-- Contoh: Pengalaman Kerja, Pengalaman Sukarelawan, Magang, Organisasi, dll. -->
 
-<div class="col-md-12 mb-3">
+                        <div class="col-md-12 mb-3">
                             <div class="card shadow-sm border-0 rounded-4">
                                 <div class="card-body">
                                     <span class="badge bg-secondary">2020</span>
@@ -128,7 +115,7 @@
                                     <p class="text-body-tertiary mb-0">Magang</p>
                                     <hr class="mt-2 mb-3 text-body-tertiary">
 
-<div class="mt-2">
+                                    <div class="mt-2">
                                         <ul class="mb-0">
                                             <li>Membuat Desain produk</li>
                                             <li>Bekerjasama dengan Tim untuk membuat Produk </li>
@@ -137,22 +124,24 @@
                                 </div>
                             </div>
                         </div>
+                       
+
                     </div>
 
-</div>
-     </div>
+                </div>
+            </div>
         </div>
- </section>
+    </section>
 
     <!-- KEAHLIAN DAN KURSUS -->
-<section class="my-5 py-5 bg-white" id="keahlian">
+    <section class="my-5 py-5 bg-white" id="keahlian">
         <div class="container">
             <div class="row">
                 <div class="col-md-6">
                     <h3 class="mb-3">Keahlian</h3>
                     <!-- Keahlian atau skill yang kamu bisa atau kuasai -->
 
-<a class="btn btn-primary text-bg-light text-start mb-2 me-1">
+                    <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
                         Adobe (Photosop,premier,Ilustrator)
                     </a>
                     <a class="btn btn-primary text-bg-light text-start mb-2 me-1">
@@ -179,11 +168,11 @@
                     </div>
                 </div>
 
-<div class="col-md-12 mt-5 mt-md-3">
+                <div class="col-md-12 mt-5 mt-md-3">
                     <h3 class="mb-3">Ketertarikan</h3>
                     <!-- Ketertarikan terkait industri yang kamu tuju seperti profesi, bidang, atau yang lain -->
 
-<a class="btn btn-success text-bg-light text-start mb-2 me-1">
+                    <a class="btn btn-success text-bg-light text-start mb-2 me-1">
                         Fotography
                     </a>
                     <a class="btn btn-success text-bg-light text-start mb-2 me-1">
@@ -204,14 +193,14 @@
     </section>
     <!-- END OF KEAHLIAN DAN KURSUS -->
 
-<section id="kontak">
+    <section id="kontak">
         <div class="container py-md-5">
             <div class="row">
                 <div class="col-md-7 pt-5 text-md-start text-center">
                     <h1><b>Tertarik dengan Saya?</b></h1>
                     <p>Hubungi saya jika ada hal yang perlu didiskusikan lebih lanjut</p>
 
- <div class="mb-3">
+                    <div class="mb-3">
                         <a class="btn btn-primary me-1" data-bs-toggle="modal" data-bs-target="#modalKontak">
                             <b>Hubungi Saya</b>
                         </a>
@@ -230,7 +219,7 @@
     </section>
 
     <!-- FOOTER -->
-<footer class="bg-dark py-3">
+    <footer class="bg-dark py-3">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
@@ -246,7 +235,7 @@
     - Kamu bisa tambahkan Portofolio terkait project atau hal yang telah kamu buat -->
 
     <!-- MODAL KONTAK -->
-<div class="modal fade" id="modalKontak" tabindex="-1" aria-labelledby="modalKontakLabel" aria-hidden="true">
+    <div class="modal fade" id="modalKontak" tabindex="-1" aria-labelledby="modalKontakLabel" aria-hidden="true">
         <div class="modal-dialog">
             <div class="modal-content">
                 <div class="modal-header">
@@ -294,12 +283,12 @@
     </div>
 
 
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
         crossorigin="anonymous"></script>
 
     <!-- Kode Javascript agar menu pada navbar otomatis tertutup jika di klik -->
-<script>
+    <script>
         document.addEventListener('DOMContentLoaded', function () {
             var navbarNav = document.getElementById('navbarSupportedContent');
             var navLinks = navbarNav.querySelectorAll('.nav-link');
